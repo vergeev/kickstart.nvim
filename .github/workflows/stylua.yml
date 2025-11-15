@@ -1,5 +1,5 @@
 name: Check Lua Formatting
-on: pull_request_target
+on: push
 
 jobs:
   stylua-check:
